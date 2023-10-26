@@ -8,4 +8,4 @@ export default class Donation {
     addAmount(gorilla) {
         this.amount += gorilla;
     }
-}
+} 

@@ -6,7 +6,7 @@ import Searchfilter from '../Components/Searchfilter'
 import { useState } from 'react';
 
 export default function Search() {
-
+ 
 const words = [
   {
     name: 'Children in need',

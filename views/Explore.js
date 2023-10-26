@@ -24,7 +24,7 @@ export default function Explore({ navigation }) {
   ]);
 
   return (
-
+ 
     <SafeAreaView style={styles.container}>
       <View style={{ display: 'flex', marginLeft: 330 }}>
         <TouchableOpacity onPress={() => navigation.navigate('AddDonation')}>

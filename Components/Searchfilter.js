@@ -10,7 +10,7 @@ const SearchFilter = ({data, input, setInput}) => {
                 return (
                     <View style={{marginVertical:12}}>
                         <Text style={{fontSize:14}}>{item.name}</Text>
-                        <Text style={{borderColor: '#ccc', borderWidth: 1, height: 1, marginTop: 5 }} />
+                        <Text style={{borderColor: '#ccc', borderWidth: 1, height: 1, marginTop: 5 }} /> 
                     </View>
                 )
             }

@@ -7,7 +7,7 @@ import { useState } from 'react';
 export default function MyProfile() {
   return (
 
-
+ 
     <View style={styles.container}>
 
       <Image source={require('../assets/Bild6(QR).jpeg')}
